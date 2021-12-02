@@ -1,2 +1,2 @@
 # Write your code below this line 👇
-print("Hello" + " " + "jakes")
+input("What is your name?: ")
